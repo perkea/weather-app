@@ -1,0 +1,30 @@
+body{
+
+    background-image: url("https://images.pexels.com/photos/53594/blue-clouds-day-fluffy-53594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    text-align: center;
+    margin-top: 10px;
+}
+h1{
+text-align: center;
+color:turquoise;
+margin-top: 120px;
+}
+
+form{
+margin-top: 100px;
+
+}
+
+.container{
+    border-radius: 25px;
+    background: white;
+    margin-top: 50px;
+    
+    
+
+}
+
+.fa-sun{
+background-color: orange;
+
+}
